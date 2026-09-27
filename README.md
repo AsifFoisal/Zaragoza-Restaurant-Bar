@@ -14,7 +14,6 @@ An authentic Spanish dining experience website with online reservations, event m
 - [Folder Structure](#folder-structure)
 - [Contributions](#contributions)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -155,11 +154,6 @@ zaragoza-restaurant-bar/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Contact
 
